@@ -21,7 +21,9 @@
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <course.fastjson.version>1.1.30</course.fastjson.version>
-        <course.lombok.version>1.18.0</course.lombok.version>
-        <course.spring-boot.sersion>2.3.5.RELEASE</course.spring-boot.sersion>
+        <course.lombok.version>RELEASE</course.lombok.version>
+        <course.spring-boot.sersion>2.1.5.RELEASE</course.spring-boot.sersion>
+        <course.mybatis.version>1.1.1</course.mybatis.version>
+        <course.mysql.connection.version>5.1.35</course.mysql.connection.version>
     </properties>
 </project>

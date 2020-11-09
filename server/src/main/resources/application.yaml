@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://192.168.119.110:3306/course?characterEncoding=UTF-8
+    username: root
+    password: 123456
+mybatis:
+  mapper-locations: classpath:sqlmap/**/*.xml
+  type-aliases-package: com.to.jing.course.sdk
