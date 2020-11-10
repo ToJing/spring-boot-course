@@ -1,4 +1,4 @@
-package com.to.jing.course.sdk;
+package com.to.jing.course.sdk.domain;
 
 import lombok.Data;
 

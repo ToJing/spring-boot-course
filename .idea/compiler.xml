@@ -6,10 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dao" />
         <module name="sdk" />
         <module name="server" />
         <module name="service" />
-        <module name="dao" />
       </profile>
     </annotationProcessing>
   </component>

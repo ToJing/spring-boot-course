@@ -5,5 +5,5 @@ spring:
     username: root
     password: 123456
 mybatis:
-  mapper-locations: classpath:sqlmap/**/*.xml
-  type-aliases-package: com.to.jing.course.sdk
+  mapper-locations: classpath:mybatis/sqlmap/**/*.xml
+  type-aliases-package: com.to.jing.course.sdk.domain
