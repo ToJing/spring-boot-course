@@ -5,5 +5,7 @@ Springboot分布式实战教程 <br/>
 
 - SpringBoot(一)、基于Maven构建多模块项目     tag:V1.0
 博客地址：http://m.loveplaycat.club:8080/articles/2020/11/06/1604633892400.html
-- SpringBoot(二)、子项目之间逐层引用          tag:V1.1
-博客地址：http://m.loveplaycat.club:8080/articles/2020/11/09/1604914780246.html
+- SpringBoot(二)、子项目之间逐层引用          tag:V1.1  
+博客地址：http://m.loveplaycat.club:8080/articles/2020/11/09/1604914780246.hZZtml
+- Springboot(三)、缓存中间件Redis的使用       tag:V2.0
+博客地址：http://m.loveplaycat.club:8080/articles/2020/11/16/1605520428207.html

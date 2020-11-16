@@ -4,6 +4,10 @@ spring:
     url: jdbc:mysql://192.168.119.110:3306/course?characterEncoding=UTF-8
     username: root
     password: 123456
+  redis:
+    port: 6379
+    host: 192.168.119.110
+    password: 123456
 mybatis:
   mapper-locations: classpath:mybatis/sqlmap/**/*.xml
   type-aliases-package: com.to.jing.course.sdk.domain
